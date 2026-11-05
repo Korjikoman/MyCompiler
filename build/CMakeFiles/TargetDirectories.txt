@@ -1,0 +1,3 @@
+/home/stasyan/Studying/7-СЕМЕСТР/компиляторы/lab4/build/CMakeFiles/lab4.dir
+/home/stasyan/Studying/7-СЕМЕСТР/компиляторы/lab4/build/CMakeFiles/edit_cache.dir
+/home/stasyan/Studying/7-СЕМЕСТР/компиляторы/lab4/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,36 @@
+class Engine {
+    int power;
+
+    int getPower(){
+        {int x;}
+        {int y; {int z;}}
+        return power;
+    }
+    int f(){{{int a; {return 5;int d;} int c;}}}
+};
+
+class Car {
+    Engine engine;
+    int speed;
+
+    int getSpeed() {
+        return speed;
+    }
+};
+
+Car car;
+
+int main() {
+    int counter = 0;
+    bool ready = true;
+
+    car.speed = counter + 60;
+    counter = car.engine.getPower();
+
+    for (counter = 0; counter < 3; counter = counter + 1) {
+        {bool ready = false;}
+        ;
+    }
+
+    return 0;
+}

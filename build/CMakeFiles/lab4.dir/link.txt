@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/lab4.dir/link.d CMakeFiles/lab4.dir/main.cpp.o CMakeFiles/lab4.dir/Scaner.cpp.o CMakeFiles/lab4.dir/TDiagram.cpp.o -o lab4
